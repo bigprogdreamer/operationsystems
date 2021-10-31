@@ -4,10 +4,10 @@
 #include <math.h>
 int main()
 {
-	int n = 6;
+	int n = 11;
 	char* alph = "abcd";
 	int a = 0;
-	int iter[6];
+	int iter[11];
 	for (int i = 0; i < n; i++)
 	{
 		iter[i] = 0;
